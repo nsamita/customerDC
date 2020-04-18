@@ -1,0 +1,22 @@
+{
+  "name": "customerdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsamita/customerDC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsamita/customerDC/issues"
+  },
+  "homepage": "https://github.com/nsamita/customerDC#readme",
+  "dependencies": {
+    "pg": "^8.0.2"
+  }
+}
