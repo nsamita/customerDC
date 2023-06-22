@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/nsamita/customerDC#readme",
   "dependencies": {
-    "pg": "^8.0.2"
+    "pg": "^8.11.0"
   }
 }
